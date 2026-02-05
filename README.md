@@ -12,9 +12,9 @@
 - ⚡ About me: **I'm Mehrsa Mohajeri. A Front-End Developer. Here, you can see my projects and if you have any questions, please ask me. Hope you enjoy ♥️**
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=website&logoColor=white)](https://mehrsamohajeri.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mehrsa_mohajeri_developer)
+[![Website](https://img.shields.io/badge/Website-%7AB82E.svg?logo=website&logoColor=white)](https://mehrsamohajeri.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrsamohajeri/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mehrsa_mohajeri_developer)
 
 ## 💻 Tech Stack:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
