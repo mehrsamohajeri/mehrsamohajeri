@@ -12,6 +12,7 @@
 - ⚡ About me: **I'm Mehrsa Mohajeri. A Front-End Developer. Here, you can see my projects and if you have any questions, please ask me. Hope you enjoy ♥️**
 
 ## 🌐 Socials:
+[![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=website&logoColor=white)](https://mehrsamohajeri.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mehrsa_mohajeri_developer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehrsamohajeri/)
 
